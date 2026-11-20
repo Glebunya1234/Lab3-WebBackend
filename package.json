@@ -1,0 +1,19 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glebunya1234/Lab3-WebBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glebunya1234/Lab3-WebBackend/issues"
+  },
+  "homepage": "https://github.com/Glebunya1234/Lab3-WebBackend#readme",
+  "description": ""
+}
